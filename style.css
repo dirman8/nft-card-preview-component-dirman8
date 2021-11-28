@@ -91,7 +91,7 @@ img {
 
 .et-logo {
   position: relative;
-  background-image: url(/image/icon-ethereum.svg);
+  background-image: url("/image/icon-ethereum.svg");
   background-size: 100%;
   background-repeat: no-repeat;
   width: 13px;
@@ -114,7 +114,7 @@ img {
 
 .time-icon {
   position: relative;
-  background-image: url(/image/icon-clock.svg);
+  background-image: url("/image/icon-clock.svg");
   background-size: 100%;
   background-repeat: no-repeat;
   min-height: 20px;
